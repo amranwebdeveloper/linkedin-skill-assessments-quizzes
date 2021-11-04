@@ -8,3 +8,11 @@
 - [x] in the `Layers` panel
 - [ ] in the `Property Inspector`
 - [ ] in Share mode
+
+
+#### Q2. What do overlays require?
+
+- [ ] an action
+- [ ] a trigger
+- [ ] a separate artboard
+- [ ] a keyboard element
